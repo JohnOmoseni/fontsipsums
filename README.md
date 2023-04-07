@@ -1,5 +1,5 @@
 
-#_Font Pairing Project_
+# _Font Pairing Project_
 This project is a web-based application that allows users to explore different font pairings. The application displays various font combinations and provides some Lorem Ipsum variations to show how different font pairs can affect the look and feel of text.
 
 ## _End Result_
@@ -28,8 +28,6 @@ In the future, I plan to add the following features to the application:
 Contributions to this project are always welcome. If you have any ideas for new features or enhancements, please submit a pull request or open an issue on GitHub.
 
 ### _Author_
-JohnOmoseni
+**JohnOmoseni**
 
-### _License_
-This project is licensed under the MIT License - see the LICENSE file for details.
 
